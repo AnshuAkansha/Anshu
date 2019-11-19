@@ -1,1 +1,1 @@
-# Anshu
+# splash animation
